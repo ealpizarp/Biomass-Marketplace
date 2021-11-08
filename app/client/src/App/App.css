@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  background-color: white;
+  padding-left: 20pt;
+  padding-right: 20pt;
+  overflow-y: scroll;
+}
+
+#headerPanel{
+  position: fixed;
+  top: 0;
+  min-height: 10%;
+  width: 100%;
+  z-index: 1;
+  background-color: white;
+}
+#switchPanel{
+  margin-top: 10%;
+  width: 100%;
+}
+
+#userWelcome{
+  margin: 10px 10px 10px 10px;
+}
+
+.main-heading {
+  font-size: 40px;
+}
+.secondary-heading {
+  font-size: 20px;
+}
+.photo {
+  widows: 300px;
+  height: 300px;
+}
+.paragraph {
+  font-size: 14px;
+  color: black;
+}

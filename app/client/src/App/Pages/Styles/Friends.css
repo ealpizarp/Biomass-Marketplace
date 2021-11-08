@@ -1,0 +1,15 @@
+#add-friend-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+
+    padding-bottom: 1%;
+    padding-right: 50%;
+    border-bottom: solid;
+    margin-bottom: 2%;
+}
+
+#add-friend-div select {
+    max-width: 50%;
+    margin: 0 5% 0 5%
+}
